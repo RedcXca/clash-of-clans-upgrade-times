@@ -1,6 +1,8 @@
 # Clash of Clans Upgrade Times
 
 This project is just a simple spreadsheet of all the upgrade times in Clash of Clans cuz there isn't really an accessible one other than the Wiki.
+![image](https://github.com/user-attachments/assets/2b60ea34-d623-4b12-91bd-c88647731884)
+
 
 ## Getting Started
 
