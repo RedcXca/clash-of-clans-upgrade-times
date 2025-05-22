@@ -1,0 +1,47 @@
+{
+  "Barbarian King (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Dark Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Archer Queen (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Dark Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Minion Prince (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Dark Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Grand Warden (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Royal Champion (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Dark Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ]
+}

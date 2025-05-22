@@ -1,0 +1,74 @@
+{
+  "Bomb (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Spring Trap (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Air Bomb (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Giant Bomb (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Seeking Air Mine (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Skeleton Trap (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Tornado Trap (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Giga Bomb (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ]
+}

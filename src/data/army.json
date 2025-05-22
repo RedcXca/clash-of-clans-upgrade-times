@@ -1,0 +1,92 @@
+{
+  "Army Camp (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Barracks (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Dark Barracks (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Laboratory (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Spell Factory (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Hero Hall (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Dark Spell Factory (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Blacksmith (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Workshop (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Pet House (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ]
+}

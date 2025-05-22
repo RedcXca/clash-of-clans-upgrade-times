@@ -1,0 +1,74 @@
+{
+  "Town Hall (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Gold Mine (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Elixir Collector (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Dark Elixir Drill (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Gold Storage (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Elixir Storage (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Dark Elixir Storage (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Clan Castle (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Gold",
+      "time": 0,
+      "townhall": 1
+    }
+  ]
+}

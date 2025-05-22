@@ -1,0 +1,137 @@
+{
+  "Lightning Spell (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Healing Spell (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Rage Spell (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Jump Spell (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Freeze Spell (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Clone Spell (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Invisibility Spell (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Recall Spell (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Revive Spell (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Poison Spell (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Dark Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Earthquake Spell (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Dark Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Haste Spell (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Dark Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Skeleton Spell (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Dark Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Bat Spell (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Dark Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ],
+  "Overgrowth Spell (TODO)": [
+    {
+      "level": 1,
+      "cost": 0,
+      "currency": "Dark Elixir",
+      "time": 0,
+      "townhall": 1
+    }
+  ]
+}
