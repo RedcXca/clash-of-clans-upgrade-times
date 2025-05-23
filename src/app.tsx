@@ -17,14 +17,16 @@ const formatUpgradeTime = (minutes: number): string => {
     const days = Math.floor(minutes / 1440);
     const remainingHours = Math.floor((minutes % 1440) / 60);
     return remainingHours > 0
-      ? `${days} day${days > 1 ? "s" : ""} ${remainingHours} hr`
+      ? `${days} day${days > 1 ? "s" : ""} ${remainingHours} hr${remainingHours > 1 ? "s" : ""}`
       : `${days} day${days > 1 ? "s" : ""}`;
   }
 
   // For times between 1 hour and 24 hours
   const hours = Math.floor(minutes / 60);
   const remainingMinutes = minutes % 60;
-  return remainingMinutes > 0 ? `${hours} hr ${remainingMinutes} min` : `${hours} hr`;
+  return remainingMinutes > 0 
+    ? `${hours} hr${hours > 1 ? "s" : ""} ${remainingMinutes} min${remainingMinutes > 1 ? "s" : ""}` 
+    : `${hours} hr${hours > 1 ? "s" : ""}`;
 };
 
 export function App() {
@@ -115,6 +117,7 @@ export function App() {
                     <th>Cost</th>
                     <th>Currency</th>
                     <th>Upgrade Time</th>
+                    <th>Townhall</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -124,6 +127,7 @@ export function App() {
                       <td>{upgrade.cost.toLocaleString()}</td>
                       <td>{upgrade.currency}</td>
                       <td>{formatUpgradeTime(upgrade.time)}</td>
+                      <td>{upgrade.townhall}</td>
                     </tr>
                   ))}
                 </tbody>
