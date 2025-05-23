@@ -1,47 +1,2917 @@
 {
-  "Barbarian King (TODO)": [
+  "Barbarian King": [
     {
       "level": 1,
       "cost": 0,
       "currency": "Dark Elixir",
       "time": 0,
-      "townhall": 1
+      "townhall": 7
+    },
+    {
+      "level": 2,
+      "cost": 5000,
+      "currency": "Dark Elixir",
+      "time": 120,
+      "townhall": 7
+    },
+    {
+      "level": 3,
+      "cost": 5500,
+      "currency": "Dark Elixir",
+      "time": 240,
+      "townhall": 7
+    },
+    {
+      "level": 4,
+      "cost": 6000,
+      "currency": "Dark Elixir",
+      "time": 480,
+      "townhall": 7
+    },
+    {
+      "level": 5,
+      "cost": 6500,
+      "currency": "Dark Elixir",
+      "time": 600,
+      "townhall": 7
+    },
+    {
+      "level": 6,
+      "cost": 7000,
+      "currency": "Dark Elixir",
+      "time": 720,
+      "townhall": 7
+    },
+    {
+      "level": 7,
+      "cost": 7500,
+      "currency": "Dark Elixir",
+      "time": 840,
+      "townhall": 7
+    },
+    {
+      "level": 8,
+      "cost": 8000,
+      "currency": "Dark Elixir",
+      "time": 960,
+      "townhall": 7
+    },
+    {
+      "level": 9,
+      "cost": 8500,
+      "currency": "Dark Elixir",
+      "time": 1080,
+      "townhall": 7
+    },
+    {
+      "level": 10,
+      "cost": 10000,
+      "currency": "Dark Elixir",
+      "time": 1200,
+      "townhall": 7
+    },
+    {
+      "level": 11,
+      "cost": 10500,
+      "currency": "Dark Elixir",
+      "time": 1320,
+      "townhall": 8
+    },
+    {
+      "level": 12,
+      "cost": 11000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 8
+    },
+    {
+      "level": 13,
+      "cost": 11500,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 8
+    },
+    {
+      "level": 14,
+      "cost": 12000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 8
+    },
+    {
+      "level": 15,
+      "cost": 12500,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 8
+    },
+    {
+      "level": 16,
+      "cost": 13000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 8
+    },
+    {
+      "level": 17,
+      "cost": 13500,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 8
+    },
+    {
+      "level": 18,
+      "cost": 14000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 8
+    },
+    {
+      "level": 19,
+      "cost": 14500,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 8
+    },
+    {
+      "level": 20,
+      "cost": 15000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 8
+    },
+    {
+      "level": 21,
+      "cost": 17000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 9
+    },
+    {
+      "level": 22,
+      "cost": 19000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 9
+    },
+    {
+      "level": 23,
+      "cost": 21000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 9
+    },
+    {
+      "level": 24,
+      "cost": 23000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 9
+    },
+    {
+      "level": 25,
+      "cost": 25000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 9
+    },
+    {
+      "level": 26,
+      "cost": 27000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 9
+    },
+    {
+      "level": 27,
+      "cost": 29000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 9
+    },
+    {
+      "level": 28,
+      "cost": 31000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 9
+    },
+    {
+      "level": 29,
+      "cost": 33000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 9
+    },
+    {
+      "level": 30,
+      "cost": 35000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 9
+    },
+    {
+      "level": 31,
+      "cost": 37000,
+      "currency": "Dark Elixir",
+      "time": 3600,
+      "townhall": 10
+    },
+    {
+      "level": 32,
+      "cost": 39000,
+      "currency": "Dark Elixir",
+      "time": 3600,
+      "townhall": 10
+    },
+    {
+      "level": 33,
+      "cost": 41000,
+      "currency": "Dark Elixir",
+      "time": 3600,
+      "townhall": 10
+    },
+    {
+      "level": 34,
+      "cost": 43000,
+      "currency": "Dark Elixir",
+      "time": 3600,
+      "townhall": 10
+    },
+    {
+      "level": 35,
+      "cost": 45000,
+      "currency": "Dark Elixir",
+      "time": 3600,
+      "townhall": 10
+    },
+    {
+      "level": 36,
+      "cost": 47000,
+      "currency": "Dark Elixir",
+      "time": 4320,
+      "townhall": 10
+    },
+    {
+      "level": 37,
+      "cost": 49000,
+      "currency": "Dark Elixir",
+      "time": 4320,
+      "townhall": 10
+    },
+    {
+      "level": 38,
+      "cost": 51000,
+      "currency": "Dark Elixir",
+      "time": 4320,
+      "townhall": 10
+    },
+    {
+      "level": 39,
+      "cost": 53000,
+      "currency": "Dark Elixir",
+      "time": 4320,
+      "townhall": 10
+    },
+    {
+      "level": 40,
+      "cost": 55000,
+      "currency": "Dark Elixir",
+      "time": 4320,
+      "townhall": 10
+    },
+    {
+      "level": 41,
+      "cost": 58000,
+      "currency": "Dark Elixir",
+      "time": 5040,
+      "townhall": 11
+    },
+    {
+      "level": 42,
+      "cost": 61000,
+      "currency": "Dark Elixir",
+      "time": 5040,
+      "townhall": 11
+    },
+    {
+      "level": 43,
+      "cost": 64000,
+      "currency": "Dark Elixir",
+      "time": 5040,
+      "townhall": 11
+    },
+    {
+      "level": 44,
+      "cost": 67000,
+      "currency": "Dark Elixir",
+      "time": 5040,
+      "townhall": 11
+    },
+    {
+      "level": 45,
+      "cost": 70000,
+      "currency": "Dark Elixir",
+      "time": 5040,
+      "townhall": 11
+    },
+    {
+      "level": 46,
+      "cost": 73000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 11
+    },
+    {
+      "level": 47,
+      "cost": 76000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 11
+    },
+    {
+      "level": 48,
+      "cost": 79000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 11
+    },
+    {
+      "level": 49,
+      "cost": 82000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 11
+    },
+    {
+      "level": 50,
+      "cost": 85000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 11
+    },
+    {
+      "level": 51,
+      "cost": 88000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 12
+    },
+    {
+      "level": 52,
+      "cost": 91000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 12
+    },
+    {
+      "level": 53,
+      "cost": 94000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 12
+    },
+    {
+      "level": 54,
+      "cost": 97000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 12
+    },
+    {
+      "level": 55,
+      "cost": 100000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 12
+    },
+    {
+      "level": 56,
+      "cost": 103000,
+      "currency": "Dark Elixir",
+      "time": 7920,
+      "townhall": 12
+    },
+    {
+      "level": 57,
+      "cost": 106000,
+      "currency": "Dark Elixir",
+      "time": 7920,
+      "townhall": 12
+    },
+    {
+      "level": 58,
+      "cost": 109000,
+      "currency": "Dark Elixir",
+      "time": 7920,
+      "townhall": 12
+    },
+    {
+      "level": 59,
+      "cost": 112000,
+      "currency": "Dark Elixir",
+      "time": 7920,
+      "townhall": 12
+    },
+    {
+      "level": 60,
+      "cost": 115000,
+      "currency": "Dark Elixir",
+      "time": 7920,
+      "townhall": 12
+    },
+    {
+      "level": 61,
+      "cost": 119000,
+      "currency": "Dark Elixir",
+      "time": 8280,
+      "townhall": 12
+    },
+    {
+      "level": 62,
+      "cost": 123000,
+      "currency": "Dark Elixir",
+      "time": 8280,
+      "townhall": 12
+    },
+    {
+      "level": 63,
+      "cost": 127000,
+      "currency": "Dark Elixir",
+      "time": 8280,
+      "townhall": 12
+    },
+    {
+      "level": 64,
+      "cost": 131000,
+      "currency": "Dark Elixir",
+      "time": 8280,
+      "townhall": 12
+    },
+    {
+      "level": 65,
+      "cost": 135000,
+      "currency": "Dark Elixir",
+      "time": 8280,
+      "townhall": 12
+    },
+    {
+      "level": 66,
+      "cost": 139000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 13
+    },
+    {
+      "level": 67,
+      "cost": 143000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 13
+    },
+    {
+      "level": 68,
+      "cost": 147000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 13
+    },
+    {
+      "level": 69,
+      "cost": 151000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 13
+    },
+    {
+      "level": 70,
+      "cost": 155000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 13
+    },
+    {
+      "level": 71,
+      "cost": 160000,
+      "currency": "Dark Elixir",
+      "time": 9360,
+      "townhall": 13
+    },
+    {
+      "level": 72,
+      "cost": 165000,
+      "currency": "Dark Elixir",
+      "time": 9360,
+      "townhall": 13
+    },
+    {
+      "level": 73,
+      "cost": 170000,
+      "currency": "Dark Elixir",
+      "time": 9360,
+      "townhall": 13
+    },
+    {
+      "level": 74,
+      "cost": 175000,
+      "currency": "Dark Elixir",
+      "time": 9360,
+      "townhall": 13
+    },
+    {
+      "level": 75,
+      "cost": 180000,
+      "currency": "Dark Elixir",
+      "time": 9360,
+      "townhall": 13
+    },
+    {
+      "level": 76,
+      "cost": 185000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 14
+    },
+    {
+      "level": 77,
+      "cost": 190000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 14
+    },
+    {
+      "level": 78,
+      "cost": 195000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 14
+    },
+    {
+      "level": 79,
+      "cost": 200000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 14
+    },
+    {
+      "level": 80,
+      "cost": 205000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 14
+    },
+    {
+      "level": 81,
+      "cost": 210000,
+      "currency": "Dark Elixir",
+      "time": 10800,
+      "townhall": 15
+    },
+    {
+      "level": 82,
+      "cost": 215000,
+      "currency": "Dark Elixir",
+      "time": 10800,
+      "townhall": 15
+    },
+    {
+      "level": 83,
+      "cost": 220000,
+      "currency": "Dark Elixir",
+      "time": 10800,
+      "townhall": 15
+    },
+    {
+      "level": 84,
+      "cost": 225000,
+      "currency": "Dark Elixir",
+      "time": 10800,
+      "townhall": 15
+    },
+    {
+      "level": 85,
+      "cost": 230000,
+      "currency": "Dark Elixir",
+      "time": 10800,
+      "townhall": 15
+    },
+    {
+      "level": 86,
+      "cost": 240000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 87,
+      "cost": 250000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 88,
+      "cost": 260000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 89,
+      "cost": 270000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 90,
+      "cost": 280000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 91,
+      "cost": 290000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 92,
+      "cost": 300000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 93,
+      "cost": 310000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 94,
+      "cost": 320000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 95,
+      "cost": 330000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 96,
+      "cost": 340000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 97,
+      "cost": 350000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 98,
+      "cost": 360000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 99,
+      "cost": 370000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 100,
+      "cost": 380000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
     }
   ],
-  "Archer Queen (TODO)": [
+  "Archer Queen": [
     {
       "level": 1,
       "cost": 0,
       "currency": "Dark Elixir",
       "time": 0,
-      "townhall": 1
+      "townhall": 8
+    },
+    {
+      "level": 2,
+      "cost": 5000,
+      "currency": "Dark Elixir",
+      "time": 120,
+      "townhall": 8
+    },
+    {
+      "level": 3,
+      "cost": 5500,
+      "currency": "Dark Elixir",
+      "time": 240,
+      "townhall": 8
+    },
+    {
+      "level": 4,
+      "cost": 6000,
+      "currency": "Dark Elixir",
+      "time": 480,
+      "townhall": 8
+    },
+    {
+      "level": 5,
+      "cost": 6500,
+      "currency": "Dark Elixir",
+      "time": 600,
+      "townhall": 8
+    },
+    {
+      "level": 6,
+      "cost": 7000,
+      "currency": "Dark Elixir",
+      "time": 720,
+      "townhall": 8
+    },
+    {
+      "level": 7,
+      "cost": 7500,
+      "currency": "Dark Elixir",
+      "time": 840,
+      "townhall": 8
+    },
+    {
+      "level": 8,
+      "cost": 8000,
+      "currency": "Dark Elixir",
+      "time": 960,
+      "townhall": 8
+    },
+    {
+      "level": 9,
+      "cost": 8500,
+      "currency": "Dark Elixir",
+      "time": 1080,
+      "townhall": 8
+    },
+    {
+      "level": 10,
+      "cost": 10000,
+      "currency": "Dark Elixir",
+      "time": 1200,
+      "townhall": 8
+    },
+    {
+      "level": 11,
+      "cost": 10500,
+      "currency": "Dark Elixir",
+      "time": 1320,
+      "townhall": 9
+    },
+    {
+      "level": 12,
+      "cost": 11000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 9
+    },
+    {
+      "level": 13,
+      "cost": 11500,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 9
+    },
+    {
+      "level": 14,
+      "cost": 12000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 9
+    },
+    {
+      "level": 15,
+      "cost": 12500,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 9
+    },
+    {
+      "level": 16,
+      "cost": 13000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 9
+    },
+    {
+      "level": 17,
+      "cost": 13500,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 9
+    },
+    {
+      "level": 18,
+      "cost": 14000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 9
+    },
+    {
+      "level": 19,
+      "cost": 14500,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 9
+    },
+    {
+      "level": 20,
+      "cost": 15000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 9
+    },
+    {
+      "level": 21,
+      "cost": 17000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 9
+    },
+    {
+      "level": 22,
+      "cost": 19000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 9
+    },
+    {
+      "level": 23,
+      "cost": 21000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 9
+    },
+    {
+      "level": 24,
+      "cost": 23000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 9
+    },
+    {
+      "level": 25,
+      "cost": 25000,
+      "currency": "Dark Elixir",
+      "time": 1800,
+      "townhall": 9
+    },
+    {
+      "level": 26,
+      "cost": 27000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 9
+    },
+    {
+      "level": 27,
+      "cost": 29000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 9
+    },
+    {
+      "level": 28,
+      "cost": 31000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 9
+    },
+    {
+      "level": 29,
+      "cost": 33000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 9
+    },
+    {
+      "level": 30,
+      "cost": 35000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 9
+    },
+    {
+      "level": 31,
+      "cost": 37000,
+      "currency": "Dark Elixir",
+      "time": 3600,
+      "townhall": 10
+    },
+    {
+      "level": 32,
+      "cost": 39000,
+      "currency": "Dark Elixir",
+      "time": 3600,
+      "townhall": 10
+    },
+    {
+      "level": 33,
+      "cost": 41000,
+      "currency": "Dark Elixir",
+      "time": 3600,
+      "townhall": 10
+    },
+    {
+      "level": 34,
+      "cost": 43000,
+      "currency": "Dark Elixir",
+      "time": 3600,
+      "townhall": 10
+    },
+    {
+      "level": 35,
+      "cost": 45000,
+      "currency": "Dark Elixir",
+      "time": 3600,
+      "townhall": 10
+    },
+    {
+      "level": 36,
+      "cost": 47000,
+      "currency": "Dark Elixir",
+      "time": 4320,
+      "townhall": 10
+    },
+    {
+      "level": 37,
+      "cost": 49000,
+      "currency": "Dark Elixir",
+      "time": 4320,
+      "townhall": 10
+    },
+    {
+      "level": 38,
+      "cost": 51000,
+      "currency": "Dark Elixir",
+      "time": 4320,
+      "townhall": 10
+    },
+    {
+      "level": 39,
+      "cost": 53000,
+      "currency": "Dark Elixir",
+      "time": 4320,
+      "townhall": 10
+    },
+    {
+      "level": 40,
+      "cost": 55000,
+      "currency": "Dark Elixir",
+      "time": 4320,
+      "townhall": 10
+    },
+    {
+      "level": 41,
+      "cost": 58000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 11
+    },
+    {
+      "level": 42,
+      "cost": 61000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 11
+    },
+    {
+      "level": 43,
+      "cost": 64000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 11
+    },
+    {
+      "level": 44,
+      "cost": 67000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 11
+    },
+    {
+      "level": 45,
+      "cost": 70000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 11
+    },
+    {
+      "level": 46,
+      "cost": 73000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 11
+    },
+    {
+      "level": 47,
+      "cost": 76000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 11
+    },
+    {
+      "level": 48,
+      "cost": 79000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 11
+    },
+    {
+      "level": 49,
+      "cost": 82000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 11
+    },
+    {
+      "level": 50,
+      "cost": 85000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 11
+    },
+    {
+      "level": 51,
+      "cost": 88000,
+      "currency": "Dark Elixir",
+      "time": 7920,
+      "townhall": 12
+    },
+    {
+      "level": 52,
+      "cost": 91000,
+      "currency": "Dark Elixir",
+      "time": 7920,
+      "townhall": 12
+    },
+    {
+      "level": 53,
+      "cost": 94000,
+      "currency": "Dark Elixir",
+      "time": 7920,
+      "townhall": 12
+    },
+    {
+      "level": 54,
+      "cost": 97000,
+      "currency": "Dark Elixir",
+      "time": 7920,
+      "townhall": 12
+    },
+    {
+      "level": 55,
+      "cost": 100000,
+      "currency": "Dark Elixir",
+      "time": 7920,
+      "townhall": 12
+    },
+    {
+      "level": 56,
+      "cost": 103000,
+      "currency": "Dark Elixir",
+      "time": 8280,
+      "townhall": 12
+    },
+    {
+      "level": 57,
+      "cost": 106000,
+      "currency": "Dark Elixir",
+      "time": 8280,
+      "townhall": 12
+    },
+    {
+      "level": 58,
+      "cost": 109000,
+      "currency": "Dark Elixir",
+      "time": 8280,
+      "townhall": 12
+    },
+    {
+      "level": 59,
+      "cost": 112000,
+      "currency": "Dark Elixir",
+      "time": 8280,
+      "townhall": 12
+    },
+    {
+      "level": 60,
+      "cost": 115000,
+      "currency": "Dark Elixir",
+      "time": 8280,
+      "townhall": 12
+    },
+    {
+      "level": 61,
+      "cost": 119000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 12
+    },
+    {
+      "level": 62,
+      "cost": 123000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 12
+    },
+    {
+      "level": 63,
+      "cost": 127000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 12
+    },
+    {
+      "level": 64,
+      "cost": 131000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 12
+    },
+    {
+      "level": 65,
+      "cost": 135000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 12
+    },
+    {
+      "level": 66,
+      "cost": 139000,
+      "currency": "Dark Elixir",
+      "time": 9360,
+      "townhall": 13
+    },
+    {
+      "level": 67,
+      "cost": 143000,
+      "currency": "Dark Elixir",
+      "time": 9360,
+      "townhall": 13
+    },
+    {
+      "level": 68,
+      "cost": 147000,
+      "currency": "Dark Elixir",
+      "time": 9360,
+      "townhall": 13
+    },
+    {
+      "level": 69,
+      "cost": 151000,
+      "currency": "Dark Elixir",
+      "time": 9360,
+      "townhall": 13
+    },
+    {
+      "level": 70,
+      "cost": 155000,
+      "currency": "Dark Elixir",
+      "time": 9360,
+      "townhall": 13
+    },
+    {
+      "level": 71,
+      "cost": 160000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 13
+    },
+    {
+      "level": 72,
+      "cost": 165000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 13
+    },
+    {
+      "level": 73,
+      "cost": 170000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 13
+    },
+    {
+      "level": 74,
+      "cost": 175000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 13
+    },
+    {
+      "level": 75,
+      "cost": 180000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 13
+    },
+    {
+      "level": 76,
+      "cost": 185000,
+      "currency": "Dark Elixir",
+      "time": 10800,
+      "townhall": 14
+    },
+    {
+      "level": 77,
+      "cost": 190000,
+      "currency": "Dark Elixir",
+      "time": 10800,
+      "townhall": 14
+    },
+    {
+      "level": 78,
+      "cost": 195000,
+      "currency": "Dark Elixir",
+      "time": 10800,
+      "townhall": 14
+    },
+    {
+      "level": 79,
+      "cost": 200000,
+      "currency": "Dark Elixir",
+      "time": 10800,
+      "townhall": 14
+    },
+    {
+      "level": 80,
+      "cost": 205000,
+      "currency": "Dark Elixir",
+      "time": 10800,
+      "townhall": 14
+    },
+    {
+      "level": 81,
+      "cost": 210000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 82,
+      "cost": 215000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 83,
+      "cost": 220000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 84,
+      "cost": 225000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 85,
+      "cost": 230000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 86,
+      "cost": 240000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 87,
+      "cost": 250000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 88,
+      "cost": 260000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 89,
+      "cost": 270000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 90,
+      "cost": 280000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 91,
+      "cost": 290000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 92,
+      "cost": 300000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 93,
+      "cost": 310000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 94,
+      "cost": 320000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 95,
+      "cost": 330000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 96,
+      "cost": 340000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 97,
+      "cost": 350000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 98,
+      "cost": 360000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 99,
+      "cost": 370000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 100,
+      "cost": 380000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
     }
   ],
-  "Minion Prince (TODO)": [
+  "Minion Prince": [
     {
       "level": 1,
       "cost": 0,
       "currency": "Dark Elixir",
       "time": 0,
-      "townhall": 1
+      "townhall": 9
+    },
+    {
+      "level": 2,
+      "cost": 5000,
+      "currency": "Dark Elixir",
+      "time": 120,
+      "townhall": 9
+    },
+    {
+      "level": 3,
+      "cost": 5500,
+      "currency": "Dark Elixir",
+      "time": 240,
+      "townhall": 9
+    },
+    {
+      "level": 4,
+      "cost": 6000,
+      "currency": "Dark Elixir",
+      "time": 480,
+      "townhall": 9
+    },
+    {
+      "level": 5,
+      "cost": 6500,
+      "currency": "Dark Elixir",
+      "time": 600,
+      "townhall": 9
+    },
+    {
+      "level": 6,
+      "cost": 7000,
+      "currency": "Dark Elixir",
+      "time": 720,
+      "townhall": 9
+    },
+    {
+      "level": 7,
+      "cost": 7500,
+      "currency": "Dark Elixir",
+      "time": 840,
+      "townhall": 9
+    },
+    {
+      "level": 8,
+      "cost": 8000,
+      "currency": "Dark Elixir",
+      "time": 960,
+      "townhall": 9
+    },
+    {
+      "level": 9,
+      "cost": 8500,
+      "currency": "Dark Elixir",
+      "time": 1080,
+      "townhall": 9
+    },
+    {
+      "level": 10,
+      "cost": 10000,
+      "currency": "Dark Elixir",
+      "time": 1200,
+      "townhall": 9
+    },
+    {
+      "level": 11,
+      "cost": 10500,
+      "currency": "Dark Elixir",
+      "time": 1320,
+      "townhall": 10
+    },
+    {
+      "level": 12,
+      "cost": 11000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 10
+    },
+    {
+      "level": 13,
+      "cost": 11500,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 10
+    },
+    {
+      "level": 14,
+      "cost": 12000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 10
+    },
+    {
+      "level": 15,
+      "cost": 12500,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 10
+    },
+    {
+      "level": 16,
+      "cost": 13000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 10
+    },
+    {
+      "level": 17,
+      "cost": 13500,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 10
+    },
+    {
+      "level": 18,
+      "cost": 14000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 10
+    },
+    {
+      "level": 19,
+      "cost": 14500,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 10
+    },
+    {
+      "level": 20,
+      "cost": 15000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 10
+    },
+    {
+      "level": 21,
+      "cost": 17000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 11
+    },
+    {
+      "level": 22,
+      "cost": 19000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 11
+    },
+    {
+      "level": 23,
+      "cost": 21000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 11
+    },
+    {
+      "level": 24,
+      "cost": 23000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 11
+    },
+    {
+      "level": 25,
+      "cost": 25000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 11
+    },
+    {
+      "level": 26,
+      "cost": 27000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 11
+    },
+    {
+      "level": 27,
+      "cost": 29000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 11
+    },
+    {
+      "level": 28,
+      "cost": 31000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 11
+    },
+    {
+      "level": 29,
+      "cost": 33000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 11
+    },
+    {
+      "level": 30,
+      "cost": 35000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 11
+    },
+    {
+      "level": 31,
+      "cost": 37000,
+      "currency": "Dark Elixir",
+      "time": 3600,
+      "townhall": 12
+    },
+    {
+      "level": 32,
+      "cost": 39000,
+      "currency": "Dark Elixir",
+      "time": 3600,
+      "townhall": 12
+    },
+    {
+      "level": 33,
+      "cost": 41000,
+      "currency": "Dark Elixir",
+      "time": 3600,
+      "townhall": 12
+    },
+    {
+      "level": 34,
+      "cost": 43000,
+      "currency": "Dark Elixir",
+      "time": 3600,
+      "townhall": 12
+    },
+    {
+      "level": 35,
+      "cost": 45000,
+      "currency": "Dark Elixir",
+      "time": 3600,
+      "townhall": 12
+    },
+    {
+      "level": 36,
+      "cost": 47000,
+      "currency": "Dark Elixir",
+      "time": 4320,
+      "townhall": 12
+    },
+    {
+      "level": 37,
+      "cost": 49000,
+      "currency": "Dark Elixir",
+      "time": 4320,
+      "townhall": 12
+    },
+    {
+      "level": 38,
+      "cost": 51000,
+      "currency": "Dark Elixir",
+      "time": 4320,
+      "townhall": 12
+    },
+    {
+      "level": 39,
+      "cost": 53000,
+      "currency": "Dark Elixir",
+      "time": 4320,
+      "townhall": 12
+    },
+    {
+      "level": 40,
+      "cost": 55000,
+      "currency": "Dark Elixir",
+      "time": 4320,
+      "townhall": 12
+    },
+    {
+      "level": 41,
+      "cost": 60000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 13
+    },
+    {
+      "level": 42,
+      "cost": 65000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 13
+    },
+    {
+      "level": 43,
+      "cost": 70000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 13
+    },
+    {
+      "level": 44,
+      "cost": 75000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 13
+    },
+    {
+      "level": 45,
+      "cost": 80000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 13
+    },
+    {
+      "level": 46,
+      "cost": 85000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 13
+    },
+    {
+      "level": 47,
+      "cost": 90000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 13
+    },
+    {
+      "level": 48,
+      "cost": 95000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 13
+    },
+    {
+      "level": 49,
+      "cost": 100000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 13
+    },
+    {
+      "level": 50,
+      "cost": 105000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 13
+    },
+    {
+      "level": 51,
+      "cost": 110000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 14
+    },
+    {
+      "level": 52,
+      "cost": 115000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 14
+    },
+    {
+      "level": 53,
+      "cost": 120000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 14
+    },
+    {
+      "level": 54,
+      "cost": 125000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 14
+    },
+    {
+      "level": 55,
+      "cost": 130000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 14
+    },
+    {
+      "level": 56,
+      "cost": 135000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 14
+    },
+    {
+      "level": 57,
+      "cost": 140000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 14
+    },
+    {
+      "level": 58,
+      "cost": 145000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 14
+    },
+    {
+      "level": 59,
+      "cost": 150000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 14
+    },
+    {
+      "level": 60,
+      "cost": 155000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 14
+    },
+    {
+      "level": 61,
+      "cost": 160000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 62,
+      "cost": 165000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 63,
+      "cost": 170000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 64,
+      "cost": 175000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 65,
+      "cost": 180000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 66,
+      "cost": 185000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 67,
+      "cost": 190000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 68,
+      "cost": 195000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 69,
+      "cost": 200000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 70,
+      "cost": 205000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 71,
+      "cost": 210000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 72,
+      "cost": 215000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 73,
+      "cost": 220000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 74,
+      "cost": 225000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 75,
+      "cost": 230000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 76,
+      "cost": 240000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 77,
+      "cost": 250000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 78,
+      "cost": 260000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 79,
+      "cost": 270000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 80,
+      "cost": 280000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 81,
+      "cost": 290000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 82,
+      "cost": 300000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 83,
+      "cost": 310000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 84,
+      "cost": 320000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 85,
+      "cost": 330000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 86,
+      "cost": 340000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 87,
+      "cost": 350000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 88,
+      "cost": 360000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 89,
+      "cost": 370000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 90,
+      "cost": 380000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
     }
   ],
-  "Grand Warden (TODO)": [
+  "Grand Warden": [
     {
       "level": 1,
       "cost": 0,
       "currency": "Elixir",
       "time": 0,
-      "townhall": 1
+      "townhall": 11
+    },
+    {
+      "level": 2,
+      "cost": 1000000,
+      "currency": "Elixir",
+      "time": 120,
+      "townhall": 11
+    },
+    {
+      "level": 3,
+      "cost": 1100000,
+      "currency": "Elixir",
+      "time": 240,
+      "townhall": 11
+    },
+    {
+      "level": 4,
+      "cost": 1200000,
+      "currency": "Elixir",
+      "time": 480,
+      "townhall": 11
+    },
+    {
+      "level": 5,
+      "cost": 1400000,
+      "currency": "Elixir",
+      "time": 600,
+      "townhall": 11
+    },
+    {
+      "level": 6,
+      "cost": 1500000,
+      "currency": "Elixir",
+      "time": 720,
+      "townhall": 11
+    },
+    {
+      "level": 7,
+      "cost": 1700000,
+      "currency": "Elixir",
+      "time": 840,
+      "townhall": 11
+    },
+    {
+      "level": 8,
+      "cost": 1800000,
+      "currency": "Elixir",
+      "time": 960,
+      "townhall": 11
+    },
+    {
+      "level": 9,
+      "cost": 2000000,
+      "currency": "Elixir",
+      "time": 1080,
+      "townhall": 11
+    },
+    {
+      "level": 10,
+      "cost": 2300000,
+      "currency": "Elixir",
+      "time": 1440,
+      "townhall": 11
+    },
+    {
+      "level": 11,
+      "cost": 2700000,
+      "currency": "Elixir",
+      "time": 1440,
+      "townhall": 11
+    },
+    {
+      "level": 12,
+      "cost": 3000000,
+      "currency": "Elixir",
+      "time": 1440,
+      "townhall": 11
+    },
+    {
+      "level": 13,
+      "cost": 3400000,
+      "currency": "Elixir",
+      "time": 1440,
+      "townhall": 11
+    },
+    {
+      "level": 14,
+      "cost": 3700000,
+      "currency": "Elixir",
+      "time": 1440,
+      "townhall": 11
+    },
+    {
+      "level": 15,
+      "cost": 4100000,
+      "currency": "Elixir",
+      "time": 1440,
+      "townhall": 11
+    },
+    {
+      "level": 16,
+      "cost": 4400000,
+      "currency": "Elixir",
+      "time": 1440,
+      "townhall": 11
+    },
+    {
+      "level": 17,
+      "cost": 4800000,
+      "currency": "Elixir",
+      "time": 1440,
+      "townhall": 11
+    },
+    {
+      "level": 18,
+      "cost": 5100000,
+      "currency": "Elixir",
+      "time": 1440,
+      "townhall": 11
+    },
+    {
+      "level": 19,
+      "cost": 5500000,
+      "currency": "Elixir",
+      "time": 1440,
+      "townhall": 11
+    },
+    {
+      "level": 20,
+      "cost": 6000000,
+      "currency": "Elixir",
+      "time": 1440,
+      "townhall": 11
+    },
+    {
+      "level": 21,
+      "cost": 6500000,
+      "currency": "Elixir",
+      "time": 2160,
+      "townhall": 12
+    },
+    {
+      "level": 22,
+      "cost": 6600000,
+      "currency": "Elixir",
+      "time": 2160,
+      "townhall": 12
+    },
+    {
+      "level": 23,
+      "cost": 6700000,
+      "currency": "Elixir",
+      "time": 2160,
+      "townhall": 12
+    },
+    {
+      "level": 24,
+      "cost": 6800000,
+      "currency": "Elixir",
+      "time": 2160,
+      "townhall": 12
+    },
+    {
+      "level": 25,
+      "cost": 6900000,
+      "currency": "Elixir",
+      "time": 2160,
+      "townhall": 12
+    },
+    {
+      "level": 26,
+      "cost": 7000000,
+      "currency": "Elixir",
+      "time": 2880,
+      "townhall": 12
+    },
+    {
+      "level": 27,
+      "cost": 7100000,
+      "currency": "Elixir",
+      "time": 2880,
+      "townhall": 12
+    },
+    {
+      "level": 28,
+      "cost": 7200000,
+      "currency": "Elixir",
+      "time": 2880,
+      "townhall": 12
+    },
+    {
+      "level": 29,
+      "cost": 7300000,
+      "currency": "Elixir",
+      "time": 2880,
+      "townhall": 12
+    },
+    {
+      "level": 30,
+      "cost": 7400000,
+      "currency": "Elixir",
+      "time": 2880,
+      "townhall": 12
+    },
+    {
+      "level": 31,
+      "cost": 7500000,
+      "currency": "Elixir",
+      "time": 3600,
+      "townhall": 12
+    },
+    {
+      "level": 32,
+      "cost": 7600000,
+      "currency": "Elixir",
+      "time": 3600,
+      "townhall": 12
+    },
+    {
+      "level": 33,
+      "cost": 7700000,
+      "currency": "Elixir",
+      "time": 3600,
+      "townhall": 12
+    },
+    {
+      "level": 34,
+      "cost": 7800000,
+      "currency": "Elixir",
+      "time": 3600,
+      "townhall": 12
+    },
+    {
+      "level": 35,
+      "cost": 7900000,
+      "currency": "Elixir",
+      "time": 3600,
+      "townhall": 12
+    },
+    {
+      "level": 36,
+      "cost": 8000000,
+      "currency": "Elixir",
+      "time": 4320,
+      "townhall": 12
+    },
+    {
+      "level": 37,
+      "cost": 8100000,
+      "currency": "Elixir",
+      "time": 4320,
+      "townhall": 12
+    },
+    {
+      "level": 38,
+      "cost": 8200000,
+      "currency": "Elixir",
+      "time": 4320,
+      "townhall": 12
+    },
+    {
+      "level": 39,
+      "cost": 8300000,
+      "currency": "Elixir",
+      "time": 4320,
+      "townhall": 12
+    },
+    {
+      "level": 40,
+      "cost": 8400000,
+      "currency": "Elixir",
+      "time": 4320,
+      "townhall": 12
+    },
+    {
+      "level": 41,
+      "cost": 8500000,
+      "currency": "Elixir",
+      "time": 5760,
+      "townhall": 13
+    },
+    {
+      "level": 42,
+      "cost": 8800000,
+      "currency": "Elixir",
+      "time": 5760,
+      "townhall": 13
+    },
+    {
+      "level": 43,
+      "cost": 9100000,
+      "currency": "Elixir",
+      "time": 5760,
+      "townhall": 13
+    },
+    {
+      "level": 44,
+      "cost": 9400000,
+      "currency": "Elixir",
+      "time": 5760,
+      "townhall": 13
+    },
+    {
+      "level": 45,
+      "cost": 9700000,
+      "currency": "Elixir",
+      "time": 5760,
+      "townhall": 13
+    },
+    {
+      "level": 46,
+      "cost": 10000000,
+      "currency": "Elixir",
+      "time": 7200,
+      "townhall": 13
+    },
+    {
+      "level": 47,
+      "cost": 10300000,
+      "currency": "Elixir",
+      "time": 7200,
+      "townhall": 13
+    },
+    {
+      "level": 48,
+      "cost": 10600000,
+      "currency": "Elixir",
+      "time": 7200,
+      "townhall": 13
+    },
+    {
+      "level": 49,
+      "cost": 11000000,
+      "currency": "Elixir",
+      "time": 7200,
+      "townhall": 13
+    },
+    {
+      "level": 50,
+      "cost": 11500000,
+      "currency": "Elixir",
+      "time": 7200,
+      "townhall": 13
+    },
+    {
+      "level": 51,
+      "cost": 12000000,
+      "currency": "Elixir",
+      "time": 8640,
+      "townhall": 14
+    },
+    {
+      "level": 52,
+      "cost": 12500000,
+      "currency": "Elixir",
+      "time": 8640,
+      "townhall": 14
+    },
+    {
+      "level": 53,
+      "cost": 13000000,
+      "currency": "Elixir",
+      "time": 8640,
+      "townhall": 14
+    },
+    {
+      "level": 54,
+      "cost": 13500000,
+      "currency": "Elixir",
+      "time": 8640,
+      "townhall": 14
+    },
+    {
+      "level": 55,
+      "cost": 14000000,
+      "currency": "Elixir",
+      "time": 8640,
+      "townhall": 14
+    },
+    {
+      "level": 56,
+      "cost": 14500000,
+      "currency": "Elixir",
+      "time": 10080,
+      "townhall": 15
+    },
+    {
+      "level": 57,
+      "cost": 15000000,
+      "currency": "Elixir",
+      "time": 10080,
+      "townhall": 15
+    },
+    {
+      "level": 58,
+      "cost": 15500000,
+      "currency": "Elixir",
+      "time": 10080,
+      "townhall": 15
+    },
+    {
+      "level": 59,
+      "cost": 16000000,
+      "currency": "Elixir",
+      "time": 10080,
+      "townhall": 15
+    },
+    {
+      "level": 60,
+      "cost": 16200000,
+      "currency": "Elixir",
+      "time": 10080,
+      "townhall": 15
+    },
+    {
+      "level": 61,
+      "cost": 16700000,
+      "currency": "Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 62,
+      "cost": 16900000,
+      "currency": "Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 63,
+      "cost": 17100000,
+      "currency": "Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 64,
+      "cost": 17300000,
+      "currency": "Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 65,
+      "cost": 17500000,
+      "currency": "Elixir",
+      "time": 11520,
+      "townhall": 15
+    },
+    {
+      "level": 66,
+      "cost": 18000000,
+      "currency": "Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 67,
+      "cost": 18500000,
+      "currency": "Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 68,
+      "cost": 19000000,
+      "currency": "Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 69,
+      "cost": 19500000,
+      "currency": "Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 70,
+      "cost": 20000000,
+      "currency": "Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 71,
+      "cost": 20500000,
+      "currency": "Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 72,
+      "cost": 21000000,
+      "currency": "Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 73,
+      "cost": 21500000,
+      "currency": "Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 74,
+      "cost": 22000000,
+      "currency": "Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 75,
+      "cost": 22500000,
+      "currency": "Elixir",
+      "time": 11520,
+      "townhall": 17
     }
   ],
-  "Royal Champion (TODO)": [
+  "Royal Champion": [
     {
       "level": 1,
       "cost": 0,
       "currency": "Dark Elixir",
       "time": 0,
-      "townhall": 1
+      "townhall": 13
+    },
+    {
+      "level": 2,
+      "cost": 50000,
+      "currency": "Dark Elixir",
+      "time": 480,
+      "townhall": 13
+    },
+    {
+      "level": 3,
+      "cost": 55000,
+      "currency": "Dark Elixir",
+      "time": 720,
+      "townhall": 13
+    },
+    {
+      "level": 4,
+      "cost": 60000,
+      "currency": "Dark Elixir",
+      "time": 960,
+      "townhall": 13
+    },
+    {
+      "level": 5,
+      "cost": 65000,
+      "currency": "Dark Elixir",
+      "time": 1200,
+      "townhall": 13
+    },
+    {
+      "level": 6,
+      "cost": 70000,
+      "currency": "Dark Elixir",
+      "time": 1440,
+      "townhall": 13
+    },
+    {
+      "level": 7,
+      "cost": 75000,
+      "currency": "Dark Elixir",
+      "time": 2160,
+      "townhall": 13
+    },
+    {
+      "level": 8,
+      "cost": 80000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 13
+    },
+    {
+      "level": 9,
+      "cost": 85000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 13
+    },
+    {
+      "level": 10,
+      "cost": 90000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 13
+    },
+    {
+      "level": 11,
+      "cost": 95000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 13
+    },
+    {
+      "level": 12,
+      "cost": 100000,
+      "currency": "Dark Elixir",
+      "time": 2880,
+      "townhall": 13
+    },
+    {
+      "level": 13,
+      "cost": 104000,
+      "currency": "Dark Elixir",
+      "time": 4320,
+      "townhall": 13
+    },
+    {
+      "level": 14,
+      "cost": 108000,
+      "currency": "Dark Elixir",
+      "time": 4320,
+      "townhall": 13
+    },
+    {
+      "level": 15,
+      "cost": 112000,
+      "currency": "Dark Elixir",
+      "time": 4320,
+      "townhall": 13
+    },
+    {
+      "level": 16,
+      "cost": 116000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 13
+    },
+    {
+      "level": 17,
+      "cost": 120000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 13
+    },
+    {
+      "level": 18,
+      "cost": 124000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 13
+    },
+    {
+      "level": 19,
+      "cost": 128000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 13
+    },
+    {
+      "level": 20,
+      "cost": 132000,
+      "currency": "Dark Elixir",
+      "time": 5760,
+      "townhall": 13
+    },
+    {
+      "level": 21,
+      "cost": 136000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 13
+    },
+    {
+      "level": 22,
+      "cost": 140000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 13
+    },
+    {
+      "level": 23,
+      "cost": 144000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 13
+    },
+    {
+      "level": 24,
+      "cost": 148000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 13
+    },
+    {
+      "level": 25,
+      "cost": 152000,
+      "currency": "Dark Elixir",
+      "time": 7200,
+      "townhall": 13
+    },
+    {
+      "level": 26,
+      "cost": 156000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 14
+    },
+    {
+      "level": 27,
+      "cost": 160000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 14
+    },
+    {
+      "level": 28,
+      "cost": 165000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 14
+    },
+    {
+      "level": 29,
+      "cost": 170000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 14
+    },
+    {
+      "level": 30,
+      "cost": 180000,
+      "currency": "Dark Elixir",
+      "time": 8640,
+      "townhall": 14
+    },
+    {
+      "level": 31,
+      "cost": 190000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 15
+    },
+    {
+      "level": 32,
+      "cost": 200000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 15
+    },
+    {
+      "level": 33,
+      "cost": 210000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 15
+    },
+    {
+      "level": 34,
+      "cost": 220000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 15
+    },
+    {
+      "level": 35,
+      "cost": 230000,
+      "currency": "Dark Elixir",
+      "time": 10080,
+      "townhall": 15
+    },
+    {
+      "level": 36,
+      "cost": 240000,
+      "currency": "Dark Elixir",
+      "time": 10800,
+      "townhall": 15
+    },
+    {
+      "level": 37,
+      "cost": 250000,
+      "currency": "Dark Elixir",
+      "time": 10800,
+      "townhall": 15
+    },
+    {
+      "level": 38,
+      "cost": 260000,
+      "currency": "Dark Elixir",
+      "time": 10800,
+      "townhall": 15
+    },
+    {
+      "level": 39,
+      "cost": 270000,
+      "currency": "Dark Elixir",
+      "time": 10800,
+      "townhall": 15
+    },
+    {
+      "level": 40,
+      "cost": 280000,
+      "currency": "Dark Elixir",
+      "time": 10800,
+      "townhall": 15
+    },
+    {
+      "level": 41,
+      "cost": 290000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 42,
+      "cost": 300000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 43,
+      "cost": 310000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 44,
+      "cost": 320000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 45,
+      "cost": 330000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 16
+    },
+    {
+      "level": 46,
+      "cost": 340000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 47,
+      "cost": 350000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 48,
+      "cost": 360000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 49,
+      "cost": 370000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
+    },
+    {
+      "level": 50,
+      "cost": 380000,
+      "currency": "Dark Elixir",
+      "time": 11520,
+      "townhall": 17
     }
   ]
 }
